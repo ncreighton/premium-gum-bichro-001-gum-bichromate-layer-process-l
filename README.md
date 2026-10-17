@@ -1,0 +1,2 @@
+# premium-gum-bichro-001-gum-bichromate-layer-process-l
+Tired of losing track of which layer had which pigment ratio, exposure time, or humidity level—only to waste an entire print session guessing?  This Notion template transforms the chaotic gum bichromate workflow into a repeatable, searchable archive. With dedicated fields for each layer's pigment mix, exposure, development notes, and environmental
